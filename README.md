@@ -84,9 +84,9 @@ Average spending per customer
 
 📉 Profit vs Quantity Sold
 
-(Add screenshot of your dashboard here)
+
 ![Dashboard Screenshot](![WhatsApp Image 2025-11-18 at 16 52 12_d4c53d6c](https://github.com/user-attachments/assets/85c178d3-c0f4-4c33-9a17-178f3a8c8541)
-)
+
 
 🔍 Key Insights
 
